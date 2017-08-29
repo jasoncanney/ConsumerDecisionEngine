@@ -1,0 +1,19 @@
+﻿<Properties StartupConfiguration="{5D0BD9FF-0E16-4BC0-B257-27C4E81810A9}|Unit Tests">
+  <MonoDevelop.Ide.Workbench ActiveDocument="GenAdxCDE_Core/Source/Model/Services/analyticservices/recommendation.cs">
+    <Files>
+      <File FileName="GenAdxCDE_ASP/Controllers/advertisementController.cs" Line="35" Column="69" />
+      <File FileName="GenAdxCDE_Core/Source/Model/Services/analyticservices/recommendation.cs" Line="70" Column="46" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.GenAdxCDE__ASP PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <DisabledProjects>
+    <String>GenAdxCDE_ASP.Tests/GenAdxCDE_ASP.Tests.csproj</String>
+    <String>GenAdxCDE_Cor.Test/GenAdxCDE_Cor.Test.csproj</String>
+  </DisabledProjects>
+</Properties>
